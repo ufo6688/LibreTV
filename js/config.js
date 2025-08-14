@@ -22,42 +22,7 @@ const SITE_CONFIG = {
 
 // API站点配置
 const API_SITES = {
- 
-Navigation Menu
-Sign in
-bestZwei
-/
-LibreTV
-Public
-forked from LibreSpark/LibreTV
-Code
-Pull requests
-Actions
-Commit c7b7dbb
-bestZwei
-bestZwei
-committed
-2 days ago
-·
-Remove all API site configurations from config.js
-main(LibreSpark/LibreTV#867)
-1 parent 
-6538270
- commit 
-c7b7dbb
-1 file changed
-Search within code
- 
-‎js/config.js
-+1
--93
-Lines changed: 1 addition & 93 deletions
-Original file line number	Diff line number	Diff line change
-@@ -22,103 +22,11 @@ const SITE_CONFIG = {
-
-// API站点配置
-const API_SITES = {
-    dyttzy: {
+     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
         detail: 'http://caiji.dyttzyapi.com', 
